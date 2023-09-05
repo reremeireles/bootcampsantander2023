@@ -1,9 +1,9 @@
 package sintaxe;
 
-public class JavaBeansVariaveis {
+public class NomenclaturaVariaveis {
   public static void main(String[] args) {
 
-  /* Exemplos NÃO recomendados */
+    /* Exemplos NÃO recomendados */
 
   int numAlbuns = 10;
   // Não deve utilizar abreviações
