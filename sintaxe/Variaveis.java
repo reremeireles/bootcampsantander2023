@@ -9,7 +9,7 @@ public class Variaveis {
     int anoNascimento = 1989; // tipo: int, valor: 1989
     int idade = 32; // tipo: int, valor: 32
     int peso; // tipo: int, valor: nenhum valor atribuído
-    boolean industrialMusical = true; // tipo: boolean, valor: true
+    boolean industriaMusical = true; // tipo: boolean, valor: true
 
     /* Declaração com o tipo double */
 
@@ -20,6 +20,8 @@ public class Variaveis {
     /* Variáveis são modificáveis */
 
     int numero = 5; // atribuindo um valor para numero
+    System.out.print(numero); // Saída: 5
+
     numero = 10; // reatribuindo um valor para numero
     System.out.print(numero); // Saída: 10
   }
