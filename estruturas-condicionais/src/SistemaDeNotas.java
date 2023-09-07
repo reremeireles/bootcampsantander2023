@@ -1,3 +1,4 @@
+/* Estrutura condicional encadeada */
 public class SistemaDeNotas {
   public static void main(String[] args) {
     int nota = 6;
