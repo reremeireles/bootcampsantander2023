@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "java-terminal_dc27c062"
+    },
+    {
+      "type": "java",
       "name": "SobreMim",
       "request": "launch",
       "mainClass": "SobreMim",
